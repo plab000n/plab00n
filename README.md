@@ -7,6 +7,9 @@
 - 🚀 Learning CI/CD & GitHub Actions  
 - 🔥 Dream: Become a professional software developer 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/plab000n/plab000n/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Plabon</h1>
@@ -33,6 +36,10 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=plab000n&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
 </p>
 
 
