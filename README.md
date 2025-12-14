@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Welcome%20to%20Plabon's%20GitHub&fontSize=40&fontColor=ffffff" />
+</p>
+### 👨‍💻 About Me
+- 🎓 Software Engineering student  
+- 💻 Love writing clean C code  
+- 🚀 Learning CI/CD & GitHub Actions  
+- 🔥 Dream: Become a professional software developer 
+
+
+
 <h1 align="center">Hi 👋, I'm Plabon</h1>
 <h3 align="center">Software Engineering Student | C | Git | CI/CD Learner</h3>
 
